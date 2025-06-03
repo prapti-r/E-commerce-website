@@ -1,0 +1,37 @@
+# Laravel-specific ignores
+/vendor
+/node_modules
+/public/storage
+/storage/*.key
+.env
+.venv
+.env.*
+.phpunit.result.cache
+
+# Cache, logs, and compiled files
+/storage/logs
+/storage/framework/cache
+/storage/framework/sessions
+/storage/framework/views
+
+# IDE/editor configs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# System files
+.DS_Store
+Thumbs.db
+
+# NPM / Composer artifacts
+npm-debug.log
+yarn-error.log
+composer.lock
+
+# Testing files
+.phpunit.result.cache
+
+# Optional: Exclude personal scripts or sensitive files
+relay_stop.signal
+run_fruit_shop_seeder.txt
