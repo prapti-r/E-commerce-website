@@ -1,5 +1,3 @@
-:
-
 # 🛒 E-Commerce Website
 This is a feature-rich E-Commerce Website built with Laravel and Oracle Database designed to support a marketplace for customers and traders. It includes user management, product listings, shopping cart, order placement, PayPal payment simulation, and admin control.
 
@@ -19,7 +17,7 @@ This is a feature-rich E-Commerce Website built with Laravel and Oracle Database
 - Reports: View daily, weekly, and monthly sales reports (traders & admin).
 - IoT Support: Traders can update stock via connected IoT systems.
 
-##⚙️ Technologies Used
+## ⚙️ Technologies Used
 - Backend: Laravel 10+
 - Database: Oracle
 - Frontend: Blade, Bulma CSS
@@ -28,7 +26,7 @@ This is a feature-rich E-Commerce Website built with Laravel and Oracle Database
 - Authentication: Custom session-based with email OTP
 - IoT: Arduino Uno with RFID reader 
 
-##🚀 Getting Started
+## 🚀 Getting Started
 ### Prerequisites
 - PHP 8.x
 - Composer
